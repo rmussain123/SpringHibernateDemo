@@ -8,3 +8,4 @@ SpringHibernateDemo
     4. warning 
     5. error 
     6. off - Means, this will turn off the logging 
+2. 
